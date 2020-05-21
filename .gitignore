@@ -1,0 +1,79 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@nicholasnbg
+Learn Git and GitHub without any code!
+
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+ichater /
+tsRobot
+
+2
+0
+
+    1
+
+Code
+Issues 0
+Pull requests 0
+Actions
+Projects 0
+Wiki
+Security 0
+
+    Insights
+
+tsRobot/.gitignore
+@ichater ichater basic setup 0fe6a0e 19 days ago
+33 lines (32 sloc) 323 Bytes
+node_modules
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+pids
+logs
+results
+tmp
+# Build
+public/css/main.css
+# Coverage reports
+coverage
+# API keys and secrets
+.env
+# Dependency directory
+node_modules
+bower_components
+# Editors
+.idea
+*.iml
+# OS metadata
+.DS_Store
+Thumbs.db
+# Ignore built ts files
+dist/**/*
+dist
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
